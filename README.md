@@ -15,3 +15,7 @@
 简单了解自然语言工具包 NLTK。
 
 [查看代码](https://github.com/bighuang624/ML-beginning-projects/blob/master/NLTK%20Beginning.ipynb)
+
+## Titanic
+
+Titanic 生存预测比赛。[文件夹]((https://github.com/bighuang624/ML-beginning-projects/blob/master/Titanic))内包含数据以及三次提交的代码，查看 [README](https://github.com/bighuang624/ML-beginning-projects/blob/master/Titanic/README.md) 以了解代码。
