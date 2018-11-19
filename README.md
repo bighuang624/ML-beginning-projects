@@ -32,4 +32,9 @@ Titanic 生存预测比赛。[文件夹]((https://github.com/bighuang624/ML-begi
 
 ## MNIST
 
-对经典的手写数字图片数据集的
+对经典的手写数字图片数据集的 Keras 深度学习分类实践代码
+
+## Pytorch-Attention
+
+用 Pytorch 写的基于 Attention 机制的翻译程序
+
